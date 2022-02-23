@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> Analise de 20 anos do site PCGAMER</title>
+</head>
+<body>
+<h1> Analise do site pcgamer </h1>
+
+<h2> Anos 2000 </h2>
+<img src= "imagens/pcgamer2000.png" alt="site da pcgamer em 2000" title="site da pcgamer em 2000" />
+<figcaption>Site da Pcgamer em 2000</figcaption>
+
+<h2> Anos 2005 </h2>
+<img src= "imagens/pcgamer2005.png" alt="site da pcgamer em 2005" title="site da pcgamer em 2005" />
+<figcaption> Site da Pcgamer em 2005 </figcaption>
+
+<h2> Anos 2010 </h2>
+<img src= "imagens/pcgamer2010.png" alt="site da pcgamer em 2010" title="site da pcgamer em 2010" />
+<figcaption> Site da Pcgamer em 2010 </figcaption>
+
+<h2> Anos 2015 </h2>
+<img src= "imagens/pcgamer2015.png" alt="site da pcgamer em 2015" title="site da pcgamer em 2015" />
+<figcaption> Site da Pcgamer em 2015 </figcaption>
+<h2> Anos 2020 </h2>
+<img src= "imagens/pcgamer2020.png" alt="site da pcgamer em 2020" title="site da pcgamer em 2020" />
+<figcaption> Site da Pcgamer em 2020 </figcaption>
+
+<h3> Perguntas </h3>
+<ol>
+<li> Qual era o o proposito inicial do site? </li>
+<li> O site proposito mudou ao longo do tempo? </li>
+<li> Quais os problemas que esse site tinha quando "novo" e quais tem agora? </li>
+<li> Que melhorias voce faria nesse site para que ele pudesse ser mais interessante para um publico jovem, de periferia, <br>
+que não esta acostumado ao uso de Internet por computadores e nao tem interesses por noticias.</li>
+</ol>
+
+<h3> Respostas </h3>
+
+<ol>
+
+<li> Proposito inicial: ser uma alternativa online da revista PCGAMER, cujo proposito é informar sobre noticias de jogos e computadores, <br>
+tendo analises  de jogos e oferecendo demonstrações. </li>
+<li> Proposito mudou ao longo do tempo? Sim, foram oferecendo mais conteudo no site, tornando ele mais independente da revista, <br> 
+além de deixar de oferecer demonstrações </li>
+<li> Problemas em 2000: pagina inicial é centralizada, mas ao entrar em algum menu, ou acessar alguma matéria o texto do site se alinha a esquerda; fontes pequenas, muito espaço nas laterais sobrando. <br>
+2005: Agora o site inteiro é alinhado a esquerda, deixando bastante espaço sem ser usado, fonte pequena, muito espaço nas laterais sem usar, imagens pequenas demais.<br>
+2010: Algumas imagens não carregam, e nenhuma imagem está com descrição para ajudar deficientes visuais. <br>
+2015: Menu não é intuitivo, dificultanto a navegação para quem não é acostumado e nenhuma imagem da pagina inicial está com descrição para ajudar deficientes visuais. <br>
+2020: Nenhuma imagem da pagina inicial está com descrição para ajudar deficientes visuais. </li>
+<li> Melhorias que faria: utilizaria um linguajar menos técnico, exemplos do cotidiano de jovens da periferia, deixaria o menu mais prático e organizado, <br>
+focaria em noticias de jogos mais acessiveis e de interesse à esse publico. </li>
+</ol>
+
+</html>
+
+
+
+
